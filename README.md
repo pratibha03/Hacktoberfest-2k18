@@ -1,2 +1,2 @@
 # Hacktoberfest-2k18
-Start Contributing
+Easy way to Contribute
